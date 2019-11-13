@@ -1,0 +1,15 @@
+body
+{
+    width:300px;
+    height:200px;
+    font-size: 17px;
+    background-color: #ffcc00;
+}
+#random_quote
+{
+    font-size: 15px;
+}
+#random_author
+{
+    font-size: 15px;
+}
